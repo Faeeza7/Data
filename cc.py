@@ -6,7 +6,6 @@ import streamlit as st
 
 import plotly.express as px
 
-import seaborn as sns
 import bamboolib as bam
 
 import matplotlib.pyplot as plt
